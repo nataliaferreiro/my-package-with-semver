@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`1d4e11c`](https://github.com/nataliaferreiro/my-package-with-semver/commit/1d4e11cc8b869eadab3b68832c9f14b4235eaf47))
+
+
 ## v1.1.0 (2026-05-15)
 
 ### Bug Fixes
